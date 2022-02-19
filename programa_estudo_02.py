@@ -14,11 +14,11 @@ n = int(input('Digite um número: '))
 print('''Analizadno o número digitado,
 o dobro será {}.
 o tripo será {}. 
-ea raiz quadrada será {}.'''.format(n * 2, n * 3, (n**(1/2))))
+a raiz quadrada será {}.'''.format(n * 2, n * 3, (n**(1/2))))
 
 print('# Exemplo 03')
 n = int(input('Digite um número: '))
 print('''Analizadno o número digitado,
 o dobro será {}.
 o tripo será {}. 
-ea raiz quadrada será {}.'''.format(n * 2, n * 3, pow(n, (1/2))))
+a raiz quadrada será {}.'''.format(n * 2, n * 3, pow(n, (1/2))))
